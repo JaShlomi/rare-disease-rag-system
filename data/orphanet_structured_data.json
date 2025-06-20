@@ -1,0 +1,12 @@
+{
+    "Cystic Fibrosis": {
+        "orpha_code": "ORPHA:234",
+        "associated_genes": [],
+        "symptoms": []
+    },
+    "Huntington's disease": {
+        "orpha_code": "ORPHA:399",
+        "associated_genes": [],
+        "symptoms": []
+    }
+}
